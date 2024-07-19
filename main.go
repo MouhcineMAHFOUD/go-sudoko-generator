@@ -47,7 +47,7 @@ func main() {
 		}
 	}
 
-	fmt.Println("generated: ", attemptedTables)
+	fmt.Printf("Generated after %v attempts \n", attemptedTables)
 	showTable(&table, rows, cols)
 }
 
