@@ -1,4 +1,4 @@
-# inefficient go-sudoko-generator
+# inefficient go-sudoku-generator
 A sudoku table generator using golang.
 
 
